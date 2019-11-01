@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiCabz/Services/AuthService.swift"
+            timestampString = "556098191.107397"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "454"
+            endingLineNumber = "454"
+            landmarkName = "checkingCarAvailablity(riderId:fromPlcae:toPlace:fromLat:fromLon:toLat:toLon:carType:distanceinKm:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiCabz/Services/AuthService.swift"
+            timestampString = "556098191.107511"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "451"
+            endingLineNumber = "451"
+            landmarkName = "checkingCarAvailablity(riderId:fromPlcae:toPlace:fromLat:fromLon:toLat:toLon:carType:distanceinKm:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiCabz.AuthService.checkingCarAvailablity(riderId: Swift.Int, fromPlcae: Swift.String, toPlace: Swift.String, fromLat: Swift.String, fromLon: Swift.String, toLat: Swift.String, toLon: Swift.String, carType: Swift.Int, distanceinKm: Swift.Double, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "MiCabz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peachitsolutions/Documents/MiCabz/MiCabz%204/MiCabz/Services/AuthService.swift"
+                  timestampString = "555834776.395986"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "451"
+                  endingLineNumber = "451"
+                  offsetFromSymbolStart = "1578">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.String&gt;) -&gt; () in MiCabz.AuthService.checkingCarAvailablity(riderId: Swift.Int, fromPlcae: Swift.String, toPlace: Swift.String, fromLat: Swift.String, fromLon: Swift.String, toLat: Swift.String, toLon: Swift.String, carType: Swift.Int, distanceinKm: Swift.Double, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "MiCabz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peachitsolutions/Documents/MiCabz/MiCabz%204/MiCabz/Services/AuthService.swift"
+                  timestampString = "555834776.397428"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "452"
+                  endingLineNumber = "452"
+                  offsetFromSymbolStart = "234">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

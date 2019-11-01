@@ -1,0 +1,6 @@
+framework module Pods_MiCabz {
+  umbrella header "Pods-MiCabz-umbrella.h"
+
+  export *
+  module * { export * }
+}
